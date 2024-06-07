@@ -9,7 +9,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center">
                     <div className="text-[25px] font-bold font-mon text-[#FFDD00]">Logo</div>
                     <div className="menu">
-                        <ul className='flex gap-5 text-[15px] font-mon font-semibold text-[#FFFFFF]'>
+                        <ul className='flex gap-10 text-[15px] font-mon font-semibold text-[#FFFFFF]'>
                             <li><Link to="/">Home</Link></li>
                             <li><Link to="/about">About</Link></li>
                             <li><Link to="/blog">Blog</Link></li>
